@@ -52,7 +52,7 @@
         android:fontFamily="@font/nunito_semibold"
         android:gravity="center_vertical"
         android:padding="10dp"
-        android:text="Search..."
+        android:text="@string/search"
         android:textColor="@android:color/black"
         android:textSize="17sp"
         app:drawableStartCompat="@drawable/ic_food_search"

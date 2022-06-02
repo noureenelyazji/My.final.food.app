@@ -20,11 +20,11 @@ public class FoodItemAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                return new FoodsFragment();
+                return new Fragment();
             case 1:
-                return new FoodsFragment();
+                return new Fragment();
             case 2:
-                return new FoodsFragment();
+                return new Fragment();
             default:
                 return null;
         }

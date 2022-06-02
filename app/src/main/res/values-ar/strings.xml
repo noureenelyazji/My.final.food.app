@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامج الطعام</string>
+    <string name="food_for_everyone">الطعام للجميع</string>
+    <string name="get_started">ابدء</string>
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="food_name">اسم الطعام</string>
+    <string name="food_price">سعر الطعام</string>
+    <string name="delivery_info">معلومات التسليم</string>
+    <string name="food_delivery_desc">تسليم</string>
+    <string name="return_policy">سياسة العائدات</string>
+    <string name="return_policy_txt">سياسة النص</string>
+    <string name="order_now">اطلب الان</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالانترنت</string>
+    <string name="no_internet_txt">غير متصل بالانترنت</string>
+    <string name="search">ابحث...</string>
+    <string name="email_address">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">دخول</string>
+    <string name="name">الاسم</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="register">تسجيل</string>
+</resources>

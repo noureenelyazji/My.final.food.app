@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Food App Demo</string>
+    <string name="app_name">Food App </string>
     <string name="food_for_everyone">Food for Everyone</string>
     <string name="get_started">Get Started</string>
     <!-- TODO: Remove or change this placeholder text -->
@@ -14,7 +14,13 @@
     <string name="order_now">Order Now</string>
     <string name="no_internet_connection">No internet Connection</string>
     <string name="no_internet_txt">Your internet connection is currently \n not available please check or try again.</string>
-    <string name="try_again">Try Again</string>
+    <string name="search">Search...</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
 
 
 </resources>
